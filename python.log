@@ -1,0 +1,21 @@
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'PythonPyTorchProfiler' is active
+LSP Notebooks experiment is enabled
+> conda info --json
+> /bin/python3 ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> ~/anaconda/bin/python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> conda run -n elastic --no-capture-output python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/printEnvVariables.py
+> conda run -n elastic --no-capture-output python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/printEnvVariables.py
+> ~/anaconda/envs/elastic/bin/python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+> ~/anaconda/envs/py310/bin/python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+Starting Pylance language server.
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /bin/python3
+Jupyter provided interpreter path override: /home/onyr/anaconda/envs/elastic/bin/python
+> conda run -n elastic --no-capture-output python ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/printEnvVariables.py
+Jupyter provided interpreter path override: /home/onyr/anaconda/envs/elastic/bin/python
+Jupyter provided interpreter path override: /home/onyr/anaconda/envs/elastic/bin/python

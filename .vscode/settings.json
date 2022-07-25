@@ -3,5 +3,6 @@
         "src"
     ],
     "python.analysis.typeCheckingMode": "basic", // basic, off, strict
-    "python.analysis.diagnosticMode": "workspace"
+    "python.analysis.diagnosticMode": "workspace",
+    "python.analysis.logLevel": "Trace"
 }
